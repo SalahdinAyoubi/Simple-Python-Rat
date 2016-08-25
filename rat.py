@@ -1,4 +1,13 @@
 #!/usr/bin/python3
+
+"""
+
+Simple Python Rat
+Developped by Tom Escolano - 2016
+www.speed09.com/me/
+
+"""
+
 import socket
 import subprocess
 import sys

