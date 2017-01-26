@@ -3,8 +3,8 @@
 """
 
 Simple Python Rat
-Developped by Tom Escolano - 2016
-www.speed09.com/me/
+Developped by Speed09 - 2016
+www.speed09.com
 
 """
 
